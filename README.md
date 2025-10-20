@@ -7,7 +7,7 @@
 
 ### 🧩 What I’m Building
 - 🧠 [Clear Thought 1.5](https://github.com/waldzellAI/clearthought-onepointfive) – modular reasoning server for sequential and stochastic thinking  
-- 🪶 [Waldzell MCP](https://github.com/waldzellAI/model-enhancement-servers) – monorepo of servers for model enhancement and workflow integration  
+- 🪶 [Model Enhancement Servers](https://github.com/waldzellAI/model-enhancement-servers) – monorepo of servers for model enhancement and workflow integration  
 - ⚙️ [mcp-agent (TS fork)](https://github.com/waldzellAI/mcp-agent-ts) – mcp-agent but it's TypeScript
 - 💡 [Claude Bloom](https://github.com/glassBead-tc/claude-bloom) – experimental shell automation using Claude Code SDK
 
