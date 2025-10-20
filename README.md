@@ -37,12 +37,6 @@
 ### 🌐 Connect
 [💬 X ](https://x.com/glassBeadDeux) · [🔗 LinkedIn](https://linkedin.com/in/glassBead-tc) · [🎧 Audius (TRICK CHENEY.)](https://audius.co/mynameiscards) · [✍️ Medium](https://glassBead-tc.medium.com)
 
-> _“.”_  
-
----
-
-**
-
 <!--
 **glassBead-tc/glassBead-tc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
