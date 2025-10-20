@@ -13,26 +13,6 @@
 
 ---
 
-### 🧠 Areas of Focus
-`Agentic Tools` • `Internet of Agents` • `Workflow Design` • `Agent Experience`
-
----
-
-### 🛠️ Tech Stack
-| Category | Tools & Languages |
-|-----------|-------------------|
-| Core | TypeScript · Node.js · Python |
-| Agents & AI | Model Context Protocol · Claude Agents SDK · Claude Code · Agentic Swarms |
-| Content | #TSforAI · Design Patterns in MCP · Surprise Games · Notebooks |
-| Creative | Language · Sound · Visuals |
-
----
-
-### 📈 Quick Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=glassBead-tc&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glassBead-tc&layout=compact&theme=radical)
-
----
 
 ### 🌐 Connect
 [💬 X ](https://x.com/glassBeadDeux) · [🔗 LinkedIn](https://linkedin.com/in/glassBead-tc) · [🎧 Audius (TRICK CHENEY.)](https://audius.co/mynameiscards) · [✍️ Medium](https://glassBead-tc.medium.com)
