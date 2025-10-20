@@ -1,4 +1,4 @@
-# Aleph/glassBead 😄
+# glassBead 😄
 
 **Prime Agentic @ [Kastalien Research](https://github.com/Kastalien-Research) --> formerly [WaldzellAI](https://github.com/waldzellAI)**  
 **Model Context Protocol (MCP)** Thoughtboxes
