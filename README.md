@@ -6,7 +6,7 @@
 ---
 
 ### 🧩 What I’m Building
-- 🧠 [Clear Thought 2.0 (beta!)](https://github.com/Kastalien-Research/clear-thought-two) – the first Sequential Thinking fork you heard about gets upgrades
+- 🧠 [Thoughtbox)](https://github.com/Kastalien-Research/clear-thought-two) – the first Sequential Thinking fork you heard about gets upgrades
 - 🪶 [Model Enhancement Servers](https://github.com/waldzellAI/model-enhancement-servers) – monorepo of servers for model enhancement and workflow integration  
 - 💡 [Claude Bloom](https://github.com/glassBead-tc/claude-bloom) – experimental shell automation using Claude Code SDK
 
