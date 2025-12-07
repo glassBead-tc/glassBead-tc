@@ -6,10 +6,7 @@
 ---
 
 ### 🧩 What I’m Building
-- 🧠 [Thoughtbox](https://github.com/Kastalien-Research/clear-thought-two) – Thoughtbox is a reasoning workstation for agents.
-- 🪶 [Model Enhancement Servers](https://github.com/waldzellAI/model-enhancement-servers) – monorepo of servers for model enhancement and workflow integration  
-- 💡 [Claude Bloom](https://github.com/glassBead-tc/claude-bloom) – experimental shell automation using Claude Code SDK
-
+- 🧠 [Thoughtbox](https://github.com/Kastalien-Research/clear-thought-two) – Thoughtbox is the observability layer that agents want to use.
 ---
 
 
